@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /flex-slider/
+Disallow: /scripts/
+Disallow: /styles/
+Sitemap: http://www.ezloadwastecontainers.com/sitemap.xml
